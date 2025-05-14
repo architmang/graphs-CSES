@@ -1,0 +1,1 @@
+{"name":"Local: counting_rooms","url":"/Users/archit/Desktop/graphs-CSES/counting_rooms.cpp","tests":[{"id":1745574751064,"input":"5 8\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/archit/Desktop/graphs-CSES/counting_rooms.cpp","group":"local","local":true}
