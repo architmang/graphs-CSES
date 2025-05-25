@@ -59,6 +59,8 @@
   "files.associations": {
     "vector": "cpp",
     "queue": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "map": "cpp",
+    "ostream": "cpp"
   }
 }
